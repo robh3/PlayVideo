@@ -1,7 +1,9 @@
-package com.robh3.playvideo;
+package com.robh3.playvideo.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.robh3.playvideo.R;
 
 public class MainActivity extends AppCompatActivity {
 
